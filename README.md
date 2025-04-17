@@ -20,7 +20,7 @@ This helps users, researchers, and policymakers stay up to date with real-time, 
 
 ## 🧠 AI Agent Workflow
 The system is built around a multi-agent structure, where each agent is responsible for a specific task:
-# 🕵️ Agent Role	🎯 Task Description
+### 🕵️ Agent Role	🎯 Task Description
 - Researcher Agent ->	Search the web for latest environmental news and data
 - Analyst Agent	 -> Analyze the collected information for patterns, risks, and highlights
 - Writer Agent	 -> Generate a clean, human-readable report summarizing findings
